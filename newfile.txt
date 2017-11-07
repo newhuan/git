@@ -7,3 +7,4 @@ mmap
 
 newhuan
 as
+autogit
